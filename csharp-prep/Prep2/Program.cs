@@ -36,7 +36,7 @@ class Program
         }
 
         // Determine the sign for the grade
-        if (grade >= 60 && grade < 94) // Excluding the sign for A+ and F
+        if (grade >= 60 && grade < 93) // Excluding the sign for A+ and F
         {
             int lastDigit = grade % 10;
             if (lastDigit >= 7)
