@@ -1,3 +1,8 @@
+/* 
+The program loads random scriptures from a file (scriptures.txt)
+*/
+
+
 using System;
 using System.Collections.Generic;
 using System.IO;
