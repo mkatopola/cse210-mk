@@ -1,0 +1,26 @@
+John|3|16|For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+Psalm|23|1|The Lord is my shepherd, I lack nothing.
+Matthew|28|19|Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+Mark|12|31|The second is this: ‘Love your neighbor as yourself.’ There is no commandment greater than these.
+Luke|6|27|But to you who are listening I say: Love your enemies, do good to those who hate you.
+John|14|6|Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.”
+Acts|2|38|Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.”
+Romans|8|28|And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
+1 Corinthians|16|14|Do everything in love.
+2 Corinthians|5|17|Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!
+Galatians|2|20|I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
+Ephesians|2|8|For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.
+Philippians|4|13|I can do all this through him who gives me strength.
+Colossians|3|23|Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.
+1 Thessalonians|5|18|Give thanks in all circumstances; for this is God’s will for you in Christ Jesus.
+2 Thessalonians|3|3|But the Lord is faithful, and he will strengthen you and protect you from the evil one.
+1 Timothy|6|12|Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession in the presence of many witnesses.
+2 Timothy|1|7|For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.
+Titus|2|11|For the grace of God has appeared that offers salvation to all people.
+Philemon|1|25|The grace of the Lord Jesus Christ be with your spirit.
+Hebrews|11|1|Now faith is confidence in what we hope for and assurance about what we do not see.
+James|1|12|Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him.
+1 Peter|5|7|Cast all your anxiety on him because he cares for you.
+2 Peter|3|9|The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.
+1 John|4|8|Whoever does not love does not know God, because God is love.
+2 John|1|6|And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.
