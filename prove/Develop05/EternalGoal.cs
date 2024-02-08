@@ -21,7 +21,7 @@ public class EternalGoal : Goal
     // Methods for EternalGoal class
 
     public override void ListGoal(int i)
-    {
+    { 
         Console.WriteLine($"{i}. [ ] {GetName()} ({GetDescription()})");
     }
 

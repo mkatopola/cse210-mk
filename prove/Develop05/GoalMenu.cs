@@ -18,7 +18,7 @@ Which type of goal would you like to create?  ";
     public int GoalChoice()
     // Method to display choices to user
     {
-
+ 
         Console.Write(_menu);
 
         _goalInput = Console.ReadLine();

@@ -11,7 +11,7 @@ class Program
         TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
 
         GoalManager goals = new GoalManager();
-
+ 
         try
         {
             Console.Clear();

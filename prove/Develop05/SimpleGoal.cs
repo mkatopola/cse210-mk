@@ -22,7 +22,7 @@ public class SimpleGoal : Goal
         return _status;
     }
 
-    // Methods for Simple Goal class
+    // Methods for Simple Goal class 
     public override void ListGoal(int i)
     {
         if (Finished() == false)

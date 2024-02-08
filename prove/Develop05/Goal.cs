@@ -18,7 +18,7 @@ public abstract class Goal
         _points = points;
     }
     
-    // Getters for Goal class
+    // Getters for Goal class 
     public new string GetType()
     {
         return _type;

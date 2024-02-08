@@ -139,7 +139,7 @@ public class GoalManager
                 string[] entries = line.Split("; ");
 
                 string type = entries[0];
-                string name = entries[1];
+                string name = entries[1]; 
                 string description = entries[2];
                 int points = int.Parse(entries[3]);
                 bool status = Convert.ToBoolean(entries[4]);

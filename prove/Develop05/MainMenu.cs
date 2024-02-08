@@ -15,7 +15,7 @@ Menu Options:
 Select a choice from the menu: ";
 
     public string _userInput;
-    private int _userChoice = 0;
+    private int _userChoice = 0; 
 
     // Methods for MainMenu class
     public int UserChoice()

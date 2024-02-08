@@ -17,7 +17,7 @@ public class ChecklistGoal : Goal
         _bonusPoints = bonusPoints;
         _count = 0;
     }
-
+ 
     public ChecklistGoal(string type, string name, string description, int points, bool status, int numberTimes, int bonusPoints, int count) : base(type, name, description, points)
     {
         _status = status;
