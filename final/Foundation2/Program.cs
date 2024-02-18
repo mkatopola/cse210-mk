@@ -5,6 +5,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.Clear();
+        Console.WriteLine("*** WELCOME TO THE ONLINE ORDERING PROGRAM ***\n");
+        Console.WriteLine("Here are the current orders:");
+        Console.WriteLine("=====================================================\n");
+        
         Address address1 = new Address("Nancholi Street", "Blantyre", "Southern Region", "Malawi");
         Customer customer1 = new Customer("Moffat Katopola", address1);
 
@@ -17,10 +22,10 @@ class Program
         Order order1 = new Order(productList1, customer1);
         Console.WriteLine(order1.ShippingLabel());
         Console.WriteLine(order1.LabelPacket());
-        Console.WriteLine($"Total Price: {order1.TotalCost()}$");
-        Console.WriteLine();
-
-
+        Console.WriteLine($"Total Price: ${order1.TotalCost()}\n");
+        
+        Console.WriteLine("=====================================================\n");
+        
         Address address2 = new Address("Kenson Street", "Downey", "California", "United States");
         Customer customer2 = new Customer("Brian Johnson", address2);
 
@@ -33,7 +38,9 @@ class Program
         Order order2 = new Order(productList2, customer2);
         Console.WriteLine(order2.ShippingLabel());
         Console.WriteLine(order2.LabelPacket());
-        Console.WriteLine($"Total Price: {order2.TotalCost()}$");
-        Console.WriteLine();
+        Console.WriteLine($"Total Price: ${order2.TotalCost()} \n");
+        
+        Console.WriteLine("=====================================================\n");
+
     }
 }

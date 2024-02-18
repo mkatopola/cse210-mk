@@ -32,4 +32,3 @@ class Address
         return fullAddress;
     }
 }
-

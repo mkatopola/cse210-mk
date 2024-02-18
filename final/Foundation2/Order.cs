@@ -34,7 +34,7 @@ class Order
 
     public string LabelPacket()
     {
-        string labelPacket = "-------Products-------\n";
+        string labelPacket = "\n**** ITEMS ****\n";
         foreach (Product product in _products)
         {
             labelPacket = labelPacket + product.GetName() + " - " + product.GetID() + "\n";
