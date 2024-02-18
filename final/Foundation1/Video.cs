@@ -1,7 +1,6 @@
 using System;
 
 
-
 class Video
 {
     public string _title;
@@ -23,4 +22,3 @@ class Video
         return _comments.Count();
     }
 }
-

@@ -11,19 +11,4 @@ class Comment
         _name = name;
         _text = text;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

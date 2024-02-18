@@ -45,7 +45,7 @@ class Program
 
         Console.Clear();
         Console.WriteLine();
-        Console.WriteLine("*** WELCOME TO THE YOUTUBE VIDEO TRACKER ***\n");
+        Console.WriteLine("*** WELCOME TO THE YOUTUBE VIDEO TRACKER PROGRAM ***\n");
         foreach (Video video in videosList)
         {
             Console.WriteLine("======================================================");
