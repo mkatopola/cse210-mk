@@ -22,19 +22,19 @@ class Program
         v2Comments.Add(comment5);
         Comment comment6 = new Comment("Hellen", "Finally, a great explanation for While Loops!");
         v2Comments.Add(comment6);
-        
+
 
         List<Comment> v3Comments = new List<Comment>();
-        
+
         Comment comment7 = new Comment("Caleb", "Great content as usual.");
         v3Comments.Add(comment7);
-        Comment comment8 = new Comment("Kelle", "Next do a video on Arrays, please!");
+        Comment comment8 = new Comment("LLoyd", "Next do a video on Arrays, please!");
         v3Comments.Add(comment8);
-        Comment comment9 = new Comment("Pedro", "Thank you Katopola for the video.");
+        Comment comment9 = new Comment("Peter", "Thank you Katopola for the video.");
         v3Comments.Add(comment9);
 
 
-        List<Video> videosList = new List<Video>(); 
+        List<Video> videosList = new List<Video>();
 
         Video video1 = new Video("C# For Loop", "Moffat", 540, v1Comments);
         videosList.Add(video1);
@@ -43,11 +43,14 @@ class Program
         Video video3 = new Video("C# Switch", "Katopola", 660, v3Comments);
         videosList.Add(video3);
 
+        Console.Clear();
         Console.WriteLine();
-
+        Console.WriteLine("*** WELCOME TO THE YOUTUBE VIDEO TRACKER ***\n");
         foreach (Video video in videosList)
         {
-            Console.WriteLine($"Video name : {video._title}\nLength: {video._length} seconds\nAuthor: {video._author}\nComments : {video.GetNumberOfComments()}");
+            Console.WriteLine("======================================================");
+            Console.WriteLine();
+            Console.WriteLine($"Video name : {video._title}\nLength: {video._length} seconds\nAuthor: {video._author}\n\nComments : {video.GetNumberOfComments()}\n");
 
             foreach (Comment comment in video._comments)
             {
@@ -55,7 +58,7 @@ class Program
             }
             Console.WriteLine();
         }
-
+        Console.WriteLine("======================================================");
     }
 }
 
