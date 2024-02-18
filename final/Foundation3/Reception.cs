@@ -13,11 +13,11 @@ class Receptions : Event
         _date = date;
         _time = time;
         _address = address;
-        _eventType = "Receptions";
+        _eventType = "Reception";
     }
 
     public string FullDetails()
     {
         return $"Event: {_eventType}\nTitle: {_title}\nRSVP Email: {_email}\nDescription: {_description}\ndate: {_date}\nTime: {_time}\nAddress: {_address.GetAddress()}";
     }
-}
+} 

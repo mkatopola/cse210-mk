@@ -21,19 +21,4 @@ class Outdoor : Event
     {
         return $"Event: {_eventType}\nTitle: {_title}\nWeather: {_weather}\nDescription: {_description}\ndate: {_date}\nTime: {_time}\nAddress: {_address.GetAddress()}";
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

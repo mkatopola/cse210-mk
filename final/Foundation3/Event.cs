@@ -28,4 +28,4 @@ class Event
     {
         return $"{_eventType}\n{_title}\n{_date}";
     }
-}
+} 
